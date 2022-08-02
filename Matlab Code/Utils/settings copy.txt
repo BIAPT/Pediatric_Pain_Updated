@@ -1,0 +1,2 @@
+raw_data_path=/Users/elizabethteel/Desktop/Research/Projects/Musculoskeletal Pain/eeg_pain_data/
+output_path=/Users/elizabethteel/Desktop/Research/Projects/Musculoskeletal Pain/Results/
