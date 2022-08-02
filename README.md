@@ -6,6 +6,6 @@ Milestone: manuscript submitted to Frontiers in Pain Research (currently in revi
 
 All the code underlying the results presented in the manuscript referenced above are found in this repo.
 
-The code for EEG feature generation is found in : Matlab Code
-The code for the machine learning analysis, as well as the manuscript figures, is found in: Python code
-The code for the basic descriptives of participant characteristics/demographics is found in: Other code
+The code for EEG feature generation is found in : Matlab Code.
+The code for the machine learning analysis, as well as the manuscript figures, is found in: Python code.
+The code for the basic descriptives of participant characteristics/demographics is found in: Other code.
